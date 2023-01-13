@@ -11,3 +11,4 @@ const store = configureStore({
 
 
 export { store, changeName, changeCost, addCar, removeCar, changeSearchTerm}
+
